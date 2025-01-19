@@ -24,7 +24,6 @@ function Larr(){
     }
     function handlemake(e){
         setcarMake(e.target.value)
-
     }
     function handlemodel(e){
         setcarModel(e.target.value)

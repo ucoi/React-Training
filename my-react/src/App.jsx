@@ -4,6 +4,7 @@ import Color from "./Color";
 import CarComponent from "./component";
 import Farr from "./froArr";
 import Larr from "./larr";
+import LearnUseEffect from "./useEffect";
 function App() {
 
     return (
@@ -13,7 +14,8 @@ function App() {
        <Color/>
        <CarComponent/>
        <Farr/> */}
-       <Larr/>
+       {/* <Larr/> */}
+         <LearnUseEffect/>
         </>
     );
 }
