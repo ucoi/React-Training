@@ -6,6 +6,7 @@ import Farr from "./froArr";
 import Larr from "./larr";
 import LearnUseEffect from "./useEffect";
 import Widthheightdisp from "./widthmdheightdisplay";
+import ComponentA from "./ComponentA";
 
 function App() {
     return (
@@ -18,7 +19,8 @@ function App() {
             {/* <Farr /> */}
             {/* <Larr /> */}
             {/* <LearnUseEffect /> */}
-            <Widthheightdisp />
+            {/* <Widthheightdisp /> */}
+            <ComponentA />
         </>
     );
 }
