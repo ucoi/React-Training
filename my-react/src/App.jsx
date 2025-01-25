@@ -7,6 +7,7 @@ import Larr from "./larr";
 import LearnUseEffect from "./useEffect";
 import Widthheightdisp from "./widthmdheightdisplay";
 import ComponentA from "./ComponentA";
+import UseReef from "./useRef";
 
 function App() {
     return (
@@ -20,7 +21,8 @@ function App() {
             {/* <Larr /> */}
             {/* <LearnUseEffect /> */}
             {/* <Widthheightdisp /> */}
-            <ComponentA />
+            {/* <ComponentA /> */}
+            <UseReef />
         </>
     );
 }
